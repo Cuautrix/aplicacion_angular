@@ -60,7 +60,8 @@ body {
 
 .header {
     height: 60vh !important;
-   /** background: url(img/header.jpg) no-repeat center; */
+  
+    background: src="././assets/fondo.jpg" no-repeat center; 
     background-size: cover;
 }
 
@@ -83,10 +84,10 @@ p {
     display: inline-block;
     margin-top: 15px;
     padding: 10px 40px;
-    border: 2px solid #9c27b0;
+    border: 2px solid #1b415c;;
     color: #fff;
     text-decoration: none;
-    background: #9c27b0;
+    background: #1b415c;;
 }
 
 .btn:hover {
@@ -141,7 +142,7 @@ p {
     text-align: center;
     border-radius: 50%;
     color: #fff;
-    background: #9c27b0;
+    background: #1b415c;;
     font-size: 2rem;
     margin: 1rem 0;
 
@@ -149,7 +150,7 @@ p {
 
 .box-container .box h3 {
     font-size: 20px;
-    color: #9c27b0;
+    color: #1b415c;;
 
 }
 
